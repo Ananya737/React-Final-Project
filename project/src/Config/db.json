@@ -1,0 +1,88 @@
+
+
+{
+    "Books":[
+        {
+            "id":1,
+            "image":"https://m.media-amazon.com/images/I/41moQrlKZKL._SY445_SX342_.jpg",
+            "name":"The Immortals of Meluha (Shiva Trilogy Book 1)",
+            "author":"Amish Tripathi",
+            "genre":"History",
+            "binding":"Paperback",
+            "price":239,
+            "description":"The Immortals of Meluha is a historic novel by Indian writer Amish Tripathi, his first book and the first in both the Amishverse and of Shiva Trilogy. The story is set in the land of Meluha and starts with the arrival of the Shiva. The Meluhans believe that Shiva is their fabled saviour Neelkanth."
+        },
+        {
+            "id":2,
+            "image":"https://m.media-amazon.com/images/I/81R5xrntmdL._AC_UY327_FMwebp_QL65_.jpg",
+            "name":"The Secret of the Nagas (Shiva Trilogy Book 2)",
+            "author":"Amish Tripathi",
+            "genre":"History",
+            "binding":"Paperback",
+            "price":226,
+            "description":"The Secret of the Nagas is the second book of Amish Tripathi, second book of Amishverse, and also the second book of Shiva Trilogy. The story takes place in the land of Meluha and narrates how the inhabitants of that land are saved from their wars by a nomad named Shiva."
+        },
+        {
+            "id":3,
+            "image":"https://m.media-amazon.com/images/I/81vZCuRX6-L._AC_UY327_FMwebp_QL65_.jpg",
+            "name":"The Oath of the Vayuputras (Shiva Trilogy Book 3)",
+            "author":"Amish Tripathi",
+            "genre":"History",
+            "binding":"Paperback",
+            "price":299,
+            "description":"Amish Tripathi's Shiva Trilogy is a re-imagining of the Indian deity Lord Shiva's life and adventures. The trilogy also portrays how Gods were human beings ages ago until they attained immortality as a result of their deeds and actions."
+        },
+        {
+            "id":4,
+            "image":"https://m.media-amazon.com/images/I/91saO95VziL._AC_UY327_FMwebp_QL65_.jpg",
+            "name":"The God of Small Things",
+            "author":"Arundhati Roy",
+            "genre":"Philosophical fiction",
+            "binding":"Hardcover",
+            "price":350,
+            "description":"The God of Small Things is a novel by Arundhati Roy published in 1997 that tells the story of twin siblings, Rahel and Estha, and their family in Kerala, India. The novel explores themes of childhood, love, loss, and the impact of societal structures on personal lives, particularly the lingering effects of casteism and colonialism. "
+        },
+        {
+            "id":5,
+            "image":"https://m.media-amazon.com/images/I/81c++Bb14PL._AC_UY327_FMwebp_QL65_.jpg",
+            "name":"tuesdays with Morrie",
+            "author":"Mitch Albom",
+            "genre":"Biographical fiction,philosophical,memoir",
+            "binding":"Paperback",
+            "price":119,
+            "description":"Tuesdays with Morrie: An Old Man, A Young Man, and Life's Greatest Lesson is a 1997 memoir by Mitch Albom about his visits with his former Brandeis University professor, Morrie Schwartz, who was dying from ALS (amyotrophic lateral sclerosis). "
+        },
+        {
+            "id":6,
+            "image":"https://m.media-amazon.com/images/I/914DQ26V6RL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
+            "name":" The Forty Rules of Love",
+            "author":"Elif Shafak",
+            "genre":"Historical fiction",
+            "binding":"Paperback",
+            "price":249,
+            "description":" A novel enclosed by a novel, The Forty Rules of Love tells two parallel stories that coincide each other across two very different cultures and seven intervening centuries. It starts when a housewife, Ella, gets a book called Sweet Blasphemy for an appraisal."
+        },
+        {
+            "id":7,
+            "image":"https://m.media-amazon.com/images/I/81AWfvvwJeL._AC_UY327_FMwebp_QL65_.jpg",
+            "name":" Whereabouts",
+            "author":"Jhumpa Lahiri",
+            "genre":"Urban fiction",
+            "binding":"Hardcover",
+            "price":399,
+            "description":"Whereabouts by Jhumpa Lahiri: 9780593312087 | PenguinRandomHouse.com: Books Whereabouts by Jhumpa Lahiri is a novel told through the first-person perspective of an unnamed narrator, a woman in her mid-40s, as she navigates her life in an unnamed Italian city over the course of a year. It's a story about solitude, displacement, and the search for meaning in a world that can feel both familiar and alien. The novel is known for its lyrical prose, detailed descriptions of the city's streets, parks, and shops, and its exploration of the narrator's internal world. "
+        },{
+            "id":8,
+            "image":"https://m.media-amazon.com/images/I/81g2oEdeGTL._AC_UY327_FMwebp_QL65_.jpg",
+            "name":" A Man Called Ove",
+            "author":"Fredrick Backmank",
+            "genre":"History",
+            "binding":"Humorous fiction",
+            "price":246,
+            "description":"A Man Called Ove is a novel by Fredrik Backman about Ove, a grumpy but kind-hearted widower who, after the death of his wife, Sonja, struggles with grief and a desire to join her in death. His attempts are repeatedly thwarted by his new neighbors, Parvaneh and Mirsad, and he gradually finds a new purpose and connection with them. The story explores themes of friendship, love, redemption, and the power of human connection." 
+
+        }
+        
+
+    ]
+}
