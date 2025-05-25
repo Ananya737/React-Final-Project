@@ -8,6 +8,7 @@ import Contact from "./Pages/Contact";
 import CartDes from "./Pages/CartDes";
 import MyCart from "./Pages/MyCart";
 import Wishlist from "./Pages/Wishlist";
+import Search from "./Pages/Search";
 
 const App=()=>{
   return(
@@ -24,6 +25,7 @@ const App=()=>{
         <Route path="cartDes/:id" element={<CartDes />}/>
         <Route path="mycart" element={<MyCart />}/>
         <Route path="wishlist/:id" element={<Wishlist />}/>
+        <Route path="search" element={<Search />}/>
       
 
 
