@@ -46,6 +46,7 @@ const Search=()=>{
             <>
             <div >
                 <Card style={{ width: '13rem', height:"400px" }}>
+                    
       <Card.Img variant="top" src={key.image} style={{height:"250px"}} />
       <Card.Body>
         <p style={{fontSize:"12px"}}>{key.name}</p>
